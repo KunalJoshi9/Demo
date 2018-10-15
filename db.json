@@ -1,8 +1,8 @@
 {
   "stocks": [
-    { "id": "AAPL", "title": "Apple" },
-    { "id": "GOOG", "title": "Google" },
-    { "id": "NFLX", "title": "Netflix" }
+    { "id": 1, "title": "Apple" },
+    { "id": 2, "title": "Google" },
+    { "id": 3, "title": "Netflix" }
   ],
   "profile": {
     "name": "KunalJoshi9"
