@@ -1,0 +1,7 @@
+{
+  "stocks": [
+    { "id": AAPL, "title": "Apple" },
+    { "id": GOOG, "title": "Google" },
+    { "id": NFLX, "title": "Netflix" }
+  ]
+}
